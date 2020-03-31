@@ -18,7 +18,28 @@
       "end_of_life": "16/12/18",
       "months_to_renew_support": "6",
       "sme_email": "Kelsi.Thompstone@memento.net.au",
-      "investment_number": "215"
+      "investment_number": "215",
+      "integrations": [
+        {
+          "id": "int-348",
+          "name": "INT-348",
+          "categoryId": "0b92058e-25af-4e83-ad26-fe6e6f607f17",
+          "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+          "sourceApplicationId": "offshoring_iot",
+          "targetApplicationId": "best_cloud",
+          "logical_server": "LEG",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "6/1/03",
+          "sme_name": "Dominique Catling",
+          "datacentre": "Altona",
+          "department": "App Control",
+          "status": "Active",
+          "sme_email": "dcatling1@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "31/5/17"
+        }
+      ]
     }
   ]
 }
