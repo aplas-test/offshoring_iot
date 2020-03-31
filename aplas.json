@@ -1,20 +1,24 @@
 {
-  "id": "offshoring_iot",
-  "name": "Offshoring IoT",
-  "categoryId": "core",
-  "description": "Optimized 4th generation algorithm",
-  "investment_24m": "736",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "190",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "331",
-  "deployment_date": "2/3/02",
-  "end_of_maintenance": "17/7/17",
-  "department": "Engineering",
-  "status": "Decomissioned",
-  "end_of_life": "16/12/18",
-  "months_to_renew_support": "6",
-  "sme_email": "Kelsi.Thompstone@memento.net.au",
-  "investment_number": "215"
+  "applications": [
+    {
+      "id": "offshoring_iot",
+      "name": "Offshoring IoT",
+      "categoryId": "core",
+      "description": "Optimized 4th generation algorithm",
+      "investment_24m": "736",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "190",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "331",
+      "deployment_date": "2/3/02",
+      "end_of_maintenance": "17/7/17",
+      "department": "Engineering",
+      "status": "Decomissioned",
+      "end_of_life": "16/12/18",
+      "months_to_renew_support": "6",
+      "sme_email": "Kelsi.Thompstone@memento.net.au",
+      "investment_number": "215"
+    }
+  ]
 }
